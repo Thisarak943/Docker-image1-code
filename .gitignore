@@ -1,0 +1,12 @@
+/target
+*.class
+*.jar
+*.war
+ .gitignore
+        Dockerfile
+        HELP.md
+        docker-compose.yml
+        mvnw
+        mvnw.cmd
+        pom.xml
+        src/
